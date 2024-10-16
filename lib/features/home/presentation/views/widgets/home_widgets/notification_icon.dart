@@ -20,7 +20,7 @@ class NotificationIcon extends StatelessWidget {
             icon: const Icon(IconlyLight.notification)
         ),
 
-        ///todo: if there are new notifications
+        ///if there are new notifications
         const NewNotificationsDot(),
       ],
     );
